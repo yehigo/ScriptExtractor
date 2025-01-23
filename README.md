@@ -16,7 +16,9 @@ Description: ScriptExtractor is a powerful Visual Studio Code extension designed
 
 
 ## How to Use:
+Just install it and it will automaticlly run once you edit any html file.
 
+## Manually
 Open an HTML file or a folder containing HTML files in Visual Studio Code.
 
 Open the Command Palette (Ctrl+Shift+P or Cmd+Shift+P).
@@ -55,18 +57,10 @@ None
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+None
 
-### 1.0.0
+### 0.0.1
 
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
+Initial release
 
 ---
