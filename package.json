@@ -14,6 +14,7 @@
   "categories": [
     "Other"
   ],
+  "icon": "images/1024.png",
   "activationEvents": [
     "onCommand:extension.extractJS",
     "onFileSystem:wildcard:**/*.html"
