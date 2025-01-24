@@ -54,7 +54,7 @@ VS code
     "scriptextractor.outJsPath": "folder where to write js files",
     "scriptextractor.outHtmlPath": "folder where to write html files"
 }
-`
+```
 ## Known Issues
 
 None
