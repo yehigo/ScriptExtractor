@@ -50,7 +50,7 @@ VS code
 
 ```json
 {
- "scriptextractor.excludePaths": ["folders path to exclude"],
+    "scriptextractor.excludePaths": ["folders path to exclude"],
     "scriptextractor.outJsPath": "folder where to write js files",
     "scriptextractor.outHtmlPath": "folder where to write html files"
 }
@@ -66,5 +66,8 @@ None
 ### 0.0.1
 
 Initial release
+
+### 0.0.3
+Added auto activation on html file.
 
 ---
