@@ -5,7 +5,7 @@
 |  [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/MeenaPintu.scriptextractor?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=MeenaPintu.scriptextractor) | ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/stars/MeenaPintu.scriptextractor?link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DMeenaPintu.scriptextractor) |
 
 
-Description: ScriptExtractor is a powerful Visual Studio Code extension designed to help developers extract JavaScript code from HTML files with ease. Whether you're working on a large project or a single file, ScriptExtractor simplifies the process by identifying and extracting all JavaScript within ```<script>``` tags and saving it to a separate .js file and html in a different file. 
+Description: ScriptExtractor is a powerful Visual Studio Code extension designed to help developers extract JavaScript code from HTML files with ease. Whether you're working on a large project or a single file, ScriptExtractor simplifies the process by identifying and extracting all JavaScript within ```<script >``` tags and saving it to a separate .js file and html in a different file. 
 
 ## Features
 
@@ -69,5 +69,9 @@ Initial release
 
 ### 0.0.3
 Added auto activation on html file.
+
+### 0.0.4
+Fix on detailed instruction of readme. Existing reamde was not rendering full instructions 
+
 
 ---

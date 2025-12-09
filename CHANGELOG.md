@@ -10,3 +10,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.0.3]
 - Added activation on language
+
+### [0.0.4]
+- Fix on detailed instruction of readme. Existing reamde was not rendering full instructions 

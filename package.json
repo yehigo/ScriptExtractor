@@ -3,7 +3,7 @@
   "displayName": "ScriptExtractor",
   "publisher": "Meenapintu",
   "description": " Extract JavaScript from HTML files and writes it to separate files. \n ScriptExtractor is a powerful Visual Studio Code extension designed to help developers extract JavaScript code from HTML files with ease. Whether you're working on a large project or a single file, ScriptExtractor simplifies the process by identifying and extracting all JavaScript within <script> tags and saving it to a separate .js file.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/yehigo/scriptextractor.git"
